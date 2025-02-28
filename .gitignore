@@ -1,0 +1,4 @@
+node_modules
+tests
+todo-list.txt
+package-lock.json

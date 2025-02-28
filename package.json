@@ -1,0 +1,16 @@
+{
+  "name": "chart",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "vitest",
+    "test2": "node ./node_modules/jest/bin/jest.js --watch"
+  },
+  "author": "Karolina Ścibek",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "vitest": "^2.1.8"
+  }
+}

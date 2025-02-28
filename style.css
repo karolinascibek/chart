@@ -1,0 +1,6 @@
+#chart-container {
+    position: relative;
+    border: 2px solid blue;
+    border-radius: 10px;
+    display: inline-flex;
+}
