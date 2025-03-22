@@ -1,10 +1,10 @@
 import HTMLElementHelper from "../helpers/element.helper.js";
 const defaultOptions = {
     padding: {
-        left: 54,
-        bottom: 23,
+        left: 50,
+        bottom: 50,
         right: 50,
-        top: 111,
+        top: 40,
     },
     margin: 0
 }
